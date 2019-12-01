@@ -2,6 +2,10 @@
 
 -ASP.Net,MVC,Javascript,Ajax,Jquery
 
+-Repository and Singleton Pattern
+
+-Filters
+
 -Login-Logout
 
 -Member Profile Page
